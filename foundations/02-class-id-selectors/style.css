@@ -15,3 +15,9 @@
 #tercero {
     font-size: 24px;
 }
+
+#cuarto {
+    background-color: rgbrgb(132, 179, 147);
+    font-size: 24px;
+    font-weight: 700;
+}
